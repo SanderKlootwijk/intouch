@@ -58,7 +58,7 @@ Page {
         title: mainPageHeaderSections.selectedIndex == 0 ? i18n.tr("Home") : i18n.tr("Recent topics")
 
         trailingActionBar {
-            numberOfSlots: 2
+            numberOfSlots: 3
 
             actions: [
                 Action {
