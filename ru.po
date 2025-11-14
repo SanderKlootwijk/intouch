@@ -1,8 +1,4 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the intouch.sanderklootwijk package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# JasonWalt Bab@'s traduccions y proyectos Team БаZa
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,9 +6,9 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-10 18:00+0000\n"
 "PO-Revision-Date: 2025-11-10 19:04+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: nl\n"
+"Last-Translator: JasonWalt Bab@\n"
+"Language-Team: Russian <> \n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,92 +16,92 @@ msgstr ""
 
 #: ../qml/Main.qml:117
 msgid "%1 seconds ago"
-msgstr "%1 seconden geleden"
+msgstr "%1 секунд назад (спустя)"
 
 #: ../qml/Main.qml:120
 msgid "one minute ago"
-msgstr "een minuut geleden"
+msgstr "Одна минута назад"
 
 #: ../qml/Main.qml:123
 msgid "%1 minutes ago"
-msgstr "%1 minuten geleden"
+msgstr "%1 минут назад"
 
 #: ../qml/Main.qml:126
 msgid "about one hour ago"
-msgstr "ongeveer een uur geleden"
+msgstr "Один час спустя"
 
 #: ../qml/Main.qml:129
 msgid "about %1 hours ago"
-msgstr "ongeveer %1 uur geleden"
+msgstr "около Одного часа спустя"
 
 #: ../qml/Main.qml:132
 msgid "one day ago"
-msgstr "een dag geleden"
+msgstr "один день спустя"
 
 #: ../qml/Main.qml:135
 msgid "%1 days ago"
-msgstr "%1 dagen geleden"
+msgstr "%1 дней спустя"
 
 #: ../qml/pages/AboutPage.qml:27 ../qml/pages/MainPage.qml:76
 msgid "About"
-msgstr "Over"
+msgstr "Об этом"
 
 #: ../qml/pages/AboutPage.qml:80 intouch.desktop.in.h:1
 msgid "InTouch"
-msgstr "InTouch"
+msgstr "ВКасании"
 
 #: ../qml/pages/AboutPage.qml:85
 msgid "Version"
-msgstr "Versie"
+msgstr "Версия"
 
 #: ../qml/pages/AboutPage.qml:102
 msgid "Source code"
-msgstr "Broncode"
+msgstr "Исходники"
 
 #: ../qml/pages/AboutPage.qml:103
 msgid "Report issues"
-msgstr "Meld problemen"
+msgstr "Пожаловаться на ошибки"
 
 #: ../qml/pages/CategoryPage.qml:87
 msgid "Topics"
-msgstr "Onderwerpen"
+msgstr "Темы"
 
 #: ../qml/pages/MainPage.qml:58
 msgid "Home"
-msgstr "Home"
+msgstr "Дом"
 
 #: ../qml/pages/MainPage.qml:58 ../qml/pages/SettingsPage.qml:136
 msgid "Recent topics"
-msgstr "Recente onderwerpen"
+msgstr "Недавние темы"
 
 #: ../qml/pages/MainPage.qml:66 ../qml/pages/SearchPage.qml:44
 msgid "Search"
-msgstr "Zoeken"
+msgstr "Искать"
 
 #: ../qml/pages/MainPage.qml:71 ../qml/pages/SettingsPage.qml:27
 msgid "Settings"
-msgstr "Instellingen"
+msgstr "Настройки"
 
 #: ../qml/pages/MainPage.qml:87 ../qml/pages/SettingsPage.qml:136
 msgid "Categories"
-msgstr "Categorieën"
+msgstr "Категории"
 
 #: ../qml/pages/MainPage.qml:90
 msgid "Recent"
-msgstr "Recent"
+msgstr "Недавние"
 
 #: ../qml/pages/SearchPage.qml:106
 msgid "No results"
-msgstr "Geen resultaten"
+msgstr "Нет результатов"
 
 #: ../qml/pages/SettingsPage.qml:66
 msgid "Theme"
-msgstr "Thema"
+msgstr "Темовое оформление"
 
 #: ../qml/pages/SettingsPage.qml:87
 msgid "System"
-msgstr "Systeem"
+msgstr "Система"
 
 #: ../qml/pages/SettingsPage.qml:115
 msgid "Default tab on startup"
-msgstr "Standaardtabblad bij opstarten"
+msgstr "Обычная закладка при запуске"
