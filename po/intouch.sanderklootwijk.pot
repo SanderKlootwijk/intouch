@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-12 19:51+0000\n"
+"POT-Creation-Date: 2025-12-23 20:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,7 +45,7 @@ msgstr ""
 msgid "%1 days ago"
 msgstr ""
 
-#: ../qml/pages/AboutPage.qml:27 ../qml/pages/MainPage.qml:76
+#: ../qml/pages/AboutPage.qml:27
 msgid "About"
 msgstr ""
 
@@ -73,23 +73,23 @@ msgstr ""
 msgid "Home"
 msgstr ""
 
-#: ../qml/pages/MainPage.qml:58 ../qml/pages/SettingsPage.qml:136
+#: ../qml/pages/MainPage.qml:58 ../qml/pages/SettingsPage.qml:149
 msgid "Recent topics"
 msgstr ""
 
-#: ../qml/pages/MainPage.qml:66 ../qml/pages/SearchPage.qml:44
-msgid "Search"
-msgstr ""
-
-#: ../qml/pages/MainPage.qml:71 ../qml/pages/SettingsPage.qml:27
+#: ../qml/pages/MainPage.qml:66 ../qml/pages/SettingsPage.qml:27
 msgid "Settings"
 msgstr ""
 
-#: ../qml/pages/MainPage.qml:87 ../qml/pages/SettingsPage.qml:136
+#: ../qml/pages/MainPage.qml:71 ../qml/pages/SearchPage.qml:44
+msgid "Search"
+msgstr ""
+
+#: ../qml/pages/MainPage.qml:82 ../qml/pages/SettingsPage.qml:149
 msgid "Categories"
 msgstr ""
 
-#: ../qml/pages/MainPage.qml:90
+#: ../qml/pages/MainPage.qml:85
 msgid "Recent"
 msgstr ""
 
@@ -97,14 +97,18 @@ msgstr ""
 msgid "No results"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:66
+#: ../qml/pages/SettingsPage.qml:53
+msgid "About page"
+msgstr ""
+
+#: ../qml/pages/SettingsPage.qml:79
 msgid "Theme"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:87
+#: ../qml/pages/SettingsPage.qml:100
 msgid "System"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:115
+#: ../qml/pages/SettingsPage.qml:128
 msgid "Default tab on startup"
 msgstr ""

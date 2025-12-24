@@ -36,7 +36,7 @@ Page {
 
     Connections {
         target: Connectivity
-        
+
         onStatusChanged: {
             if (Connectivity.status == NetworkingStatus.Online) {
                 if (mainPageHeaderSections.selectedIndex == 0) {
@@ -58,23 +58,18 @@ Page {
         title: mainPageHeaderSections.selectedIndex == 0 ? i18n.tr("Home") : i18n.tr("Recent topics")
 
         trailingActionBar {
-            numberOfSlots: 2
+            numberOfSlots: 3
 
             actions: [
-                Action {
-                    iconName: "toolkit_input-search"
-                    text: i18n.tr("Search")
-                    onTriggered: pageStack.push(searchPage)
-                },
                 Action {
                     iconName: "settings"
                     text: i18n.tr("Settings")
                     onTriggered: pageStack.push(settingsPage)
                 },
                 Action {
-                    iconName: "info"
-                    text: i18n.tr("About")
-                    onTriggered: pageStack.push(aboutPage)
+                    iconName: "toolkit_input-search"
+                    text: i18n.tr("Search")
+                    onTriggered: pageStack.push(searchPage)
                 }
             ]
         }

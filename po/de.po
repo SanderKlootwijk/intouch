@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-12 19:51+0000\n"
-"PO-Revision-Date: 2025-11-14 20:11+0100\n"
+"POT-Creation-Date: 2025-12-23 20:49+0000\n"
+"PO-Revision-Date: 2025-12-23 21:51+0100\n"
 "Last-Translator: Daniel Frost <one@frostinfo.de>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -46,7 +46,7 @@ msgstr "vor einem Tag"
 msgid "%1 days ago"
 msgstr "vor %1 Tagen"
 
-#: ../qml/pages/AboutPage.qml:27 ../qml/pages/MainPage.qml:76
+#: ../qml/pages/AboutPage.qml:27
 msgid "About"
 msgstr "Über"
 
@@ -74,23 +74,23 @@ msgstr "Themen"
 msgid "Home"
 msgstr "Startseite"
 
-#: ../qml/pages/MainPage.qml:58 ../qml/pages/SettingsPage.qml:136
+#: ../qml/pages/MainPage.qml:58 ../qml/pages/SettingsPage.qml:149
 msgid "Recent topics"
 msgstr "Aktuellste Themen"
 
-#: ../qml/pages/MainPage.qml:66 ../qml/pages/SearchPage.qml:44
-msgid "Search"
-msgstr "Suchen"
-
-#: ../qml/pages/MainPage.qml:71 ../qml/pages/SettingsPage.qml:27
+#: ../qml/pages/MainPage.qml:66 ../qml/pages/SettingsPage.qml:27
 msgid "Settings"
 msgstr "Einstellungen"
 
-#: ../qml/pages/MainPage.qml:87 ../qml/pages/SettingsPage.qml:136
+#: ../qml/pages/MainPage.qml:71 ../qml/pages/SearchPage.qml:44
+msgid "Search"
+msgstr "Suchen"
+
+#: ../qml/pages/MainPage.qml:82 ../qml/pages/SettingsPage.qml:149
 msgid "Categories"
 msgstr "Kategorien"
 
-#: ../qml/pages/MainPage.qml:90
+#: ../qml/pages/MainPage.qml:85
 msgid "Recent"
 msgstr "Aktuellste"
 
@@ -98,14 +98,18 @@ msgstr "Aktuellste"
 msgid "No results"
 msgstr "Keine Ergebnisse"
 
-#: ../qml/pages/SettingsPage.qml:66
+#: ../qml/pages/SettingsPage.qml:53
+msgid "About page"
+msgstr "Über die App"
+
+#: ../qml/pages/SettingsPage.qml:79
 msgid "Theme"
 msgstr "Design"
 
-#: ../qml/pages/SettingsPage.qml:87
+#: ../qml/pages/SettingsPage.qml:100
 msgid "System"
 msgstr "System"
 
-#: ../qml/pages/SettingsPage.qml:115
+#: ../qml/pages/SettingsPage.qml:128
 msgid "Default tab on startup"
 msgstr "Aktiver Reiter beim Start"

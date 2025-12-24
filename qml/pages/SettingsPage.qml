@@ -23,7 +23,7 @@ Page {
 
     header: PageHeader {
         id: settingsPageHeader
-        
+
         title: i18n.tr("Settings")
     }
 
@@ -37,11 +37,24 @@ Page {
 
         contentWidth: settingsColumn.width
         contentHeight: settingsColumn.height
-    
+
         Column {
             id: settingsColumn
 
             width: settingsPage.width
+
+            ListItem {
+                id: aboutListItem
+
+                // height: units.gu(4)
+
+                ListItemLayout {
+                        id: layoutAbout
+                        title.text : i18n.tr("About page")
+                        ProgressionSlot {color: theme.palette.normal.baseText; }
+                    }
+                onClicked: pageStack.push(aboutPage)
+            }
 
             ListItem {
                 id: themeTitle
@@ -53,7 +66,7 @@ Page {
 
                 Label {
                     id: themeTitleLabel
-                    
+
                     width: parent.width - units.gu(4)
 
                     anchors {
@@ -62,7 +75,7 @@ Page {
                         left: parent.left
                         leftMargin: units.gu(2)
                     }
-                    
+
                     text: i18n.tr("Theme") + ":"
 
                     elide: Text.ElideRight
@@ -102,7 +115,7 @@ Page {
 
                 Label {
                     id: defaultTabTitleLabel
-                    
+
                     width: parent.width - units.gu(4)
 
                     anchors {
@@ -111,7 +124,7 @@ Page {
                         left: parent.left
                         leftMargin: units.gu(2)
                     }
-                    
+
                     text: i18n.tr("Default tab on startup") + ":"
 
                     elide: Text.ElideRight
