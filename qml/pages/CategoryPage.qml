@@ -122,7 +122,7 @@ Page {
                     let topics = data.topics;
                     let children = data.children;
 
-                    categoryPageHeader.title = data.name;
+                    categoryPageHeader.title = data.name.replace("&#x2F;", "/");
                     currentPage = page;
                     pageCount = data.pagination.pageCount;
 
@@ -144,7 +144,7 @@ Page {
                     if (page == 1) {
                         for (let j = 0; j < children.length; j++) {
                             subCategoriesListModel.append({
-                                "name": children[j].name,
+                                "name": children[j].name.replace("&#x2F;", "/"),
                                 "icon": children[j].icon,
                                 "iconColor": children[j].color,
                                 "bgColor": children[j].bgColor,
