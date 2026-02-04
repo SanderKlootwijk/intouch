@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-23 20:49+0000\n"
-"PO-Revision-Date: 2025-12-23 21:51+0100\n"
+"POT-Creation-Date: 2026-02-01 14:56+0000\n"
+"PO-Revision-Date: 2026-02-01 19:04+0100\n"
 "Last-Translator: Daniel Frost <one@frostinfo.de>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -18,35 +18,44 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.4.2\n"
 
-#: ../qml/Main.qml:110
+#: ../qml/Main.qml:200
 msgid "%1 seconds ago"
 msgstr "vor %1 Sekunden"
 
-#: ../qml/Main.qml:113
+#: ../qml/Main.qml:203
 msgid "one minute ago"
 msgstr "vor einer Minute"
 
-#: ../qml/Main.qml:116
+#: ../qml/Main.qml:206
 msgid "%1 minutes ago"
 msgstr "vor %1 Minuten"
 
-#: ../qml/Main.qml:119
+#: ../qml/Main.qml:209
 msgid "about one hour ago"
 msgstr "etwa vor einer Stunde"
 
-#: ../qml/Main.qml:122
+#: ../qml/Main.qml:212
 msgid "about %1 hours ago"
 msgstr "etwa vor %1 Stunden"
 
-#: ../qml/Main.qml:125
+#: ../qml/Main.qml:215
 msgid "one day ago"
 msgstr "vor einem Tag"
 
-#: ../qml/Main.qml:128
+#: ../qml/Main.qml:218
 msgid "%1 days ago"
 msgstr "vor %1 Tagen"
 
-#: ../qml/pages/AboutPage.qml:27
+#: ../qml/components/PostListItem.qml:135 ../qml/pages/TopicPage.qml:274
+#: ../qml/pages/WebEngineViewPage.qml:70
+msgid "Reply"
+msgstr "Antworten"
+
+#: ../qml/components/PostListItem.qml:164
+msgid "Quote"
+msgstr "Zitieren"
+
+#: ../qml/pages/AboutPage.qml:27 ../qml/pages/SettingsPage.qml:217
 msgid "About"
 msgstr "Über"
 
@@ -70,27 +79,31 @@ msgstr "Fehler melden"
 msgid "Topics"
 msgstr "Themen"
 
-#: ../qml/pages/MainPage.qml:58
+#: ../qml/pages/MainPage.qml:64
 msgid "Home"
 msgstr "Startseite"
 
-#: ../qml/pages/MainPage.qml:58 ../qml/pages/SettingsPage.qml:149
+#: ../qml/pages/MainPage.qml:64 ../qml/pages/SettingsPage.qml:189
 msgid "Recent topics"
 msgstr "Aktuellste Themen"
 
-#: ../qml/pages/MainPage.qml:66 ../qml/pages/SettingsPage.qml:27
+#: ../qml/pages/MainPage.qml:72 ../qml/pages/SettingsPage.qml:27
 msgid "Settings"
 msgstr "Einstellungen"
 
-#: ../qml/pages/MainPage.qml:71 ../qml/pages/SearchPage.qml:44
+#: ../qml/pages/MainPage.qml:90 ../qml/pages/NotificationsPage.qml:35
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+#: ../qml/pages/MainPage.qml:95 ../qml/pages/SearchPage.qml:44
 msgid "Search"
 msgstr "Suchen"
 
-#: ../qml/pages/MainPage.qml:82 ../qml/pages/SettingsPage.qml:149
+#: ../qml/pages/MainPage.qml:106 ../qml/pages/SettingsPage.qml:189
 msgid "Categories"
 msgstr "Kategorien"
 
-#: ../qml/pages/MainPage.qml:85
+#: ../qml/pages/MainPage.qml:109
 msgid "Recent"
 msgstr "Aktuellste"
 
@@ -98,18 +111,59 @@ msgstr "Aktuellste"
 msgid "No results"
 msgstr "Keine Ergebnisse"
 
-#: ../qml/pages/SettingsPage.qml:53
-msgid "About page"
-msgstr "Über die App"
+#: ../qml/pages/SettingsPage.qml:66 ../qml/pages/WebEngineViewPage.qml:66
+msgid "Account"
+msgstr "Konto"
 
-#: ../qml/pages/SettingsPage.qml:79
+#: ../qml/pages/SettingsPage.qml:84
+msgid "Login or manage your account"
+msgstr "Anmelden oder Konto verwalten"
+
+#: ../qml/pages/SettingsPage.qml:115
 msgid "Theme"
 msgstr "Design"
 
-#: ../qml/pages/SettingsPage.qml:100
+#: ../qml/pages/SettingsPage.qml:138
 msgid "System"
 msgstr "System"
 
-#: ../qml/pages/SettingsPage.qml:128
+#: ../qml/pages/SettingsPage.qml:166
 msgid "Default tab on startup"
 msgstr "Aktiver Reiter beim Start"
+
+#: ../qml/pages/SettingsPage.qml:235
+msgid "About page"
+msgstr "Über die App"
+
+#: ../qml/pages/TopicPage.qml:274
+msgid "Locked"
+msgstr "Gesperrt"
+
+#: ../qml/pages/WebEngineViewPage.qml:41
+msgid "Close"
+msgstr "Schließen"
+
+#: ../qml/pages/WebEngineViewPage.qml:51
+msgid "Back"
+msgstr "Zurück"
+
+#: ../qml/pages/WebEngineViewPage.qml:63 ../qml/pages/WebEngineViewPage.qml:341
+msgid "Login"
+msgstr "Anmeldung"
+
+#: ../qml/pages/WebEngineViewPage.qml:337
+msgid "Are you logged in?"
+msgstr "Bist du angemeldet?"
+
+#: ../qml/pages/WebEngineViewPage.qml:338
+msgid ""
+"To reply to this topic, please make sure you are logged in to your account. "
+"You can do this through the app settings or by using the login button below."
+msgstr ""
+"Bitte stelle sicher, dass du angemeldet bist um auf dieses Thema antworten "
+"zu können. Du kannst dich in den App-Einstellungen anmelden oder mit der "
+"Schaltfläche unten."
+
+#: ../qml/pages/WebEngineViewPage.qml:355
+msgid "Cancel"
+msgstr "Abbrechen"
