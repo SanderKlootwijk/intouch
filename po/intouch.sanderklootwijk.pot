@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-01 14:56+0000\n"
+"POT-Creation-Date: 2026-02-04 20:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -136,6 +136,10 @@ msgstr ""
 
 #: ../qml/pages/TopicPage.qml:274
 msgid "Locked"
+msgstr ""
+
+#: ../qml/pages/TopicPage.qml:421
+msgid "Post %1 from %2"
 msgstr ""
 
 #: ../qml/pages/WebEngineViewPage.qml:41

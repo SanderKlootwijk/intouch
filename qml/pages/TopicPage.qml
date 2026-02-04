@@ -418,7 +418,7 @@ Page {
                 anchors.verticalCenter: parent.verticalCenter
 
                 horizontalAlignment: Text.AlignHCenter                
-                text: postCount == 0 ? "" : "Post " + currentPost + " from " + postCount
+                text: postCount == 0 ? "" : i18n.tr("Post %1 from %2").arg(currentPost).arg(postCount)                
             }
 
             MouseArea {
