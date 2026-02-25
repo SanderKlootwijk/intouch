@@ -174,6 +174,7 @@ Page {
                             "username": posts[i].user.username,
                             "bgColor": posts[i].user["icon:bgColor"],
                             "usernameText": posts[i].user["icon:text"],
+                            "topicID": posts[i].topic.tid,
                             "slug": posts[i].topic.slug.toString()
                         });
                     }
