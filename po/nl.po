@@ -3,20 +3,21 @@
 # This file is distributed under the same license as the intouch.sanderklootwijk package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-01 14:56+0000\n"
-"PO-Revision-Date: 2026-02-01 15:57+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2026-02-27 10:09+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/ubports/intouch/"
+"nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: ../qml/Main.qml:200
 msgid "%1 seconds ago"
@@ -32,7 +33,7 @@ msgstr "%1 minuten geleden"
 
 #: ../qml/Main.qml:209
 msgid "about one hour ago"
-msgstr "ongeveer een uur geleden"
+msgstr "ongeveer één uur geleden"
 
 #: ../qml/Main.qml:212
 msgid "about %1 hours ago"
@@ -40,7 +41,7 @@ msgstr "ongeveer %1 uur geleden"
 
 #: ../qml/Main.qml:215
 msgid "one day ago"
-msgstr "een dag geleden"
+msgstr "één dag geleden"
 
 #: ../qml/Main.qml:218
 msgid "%1 days ago"
@@ -73,7 +74,7 @@ msgstr "Broncode"
 
 #: ../qml/pages/AboutPage.qml:103
 msgid "Report issues"
-msgstr "Meld problemen"
+msgstr "Problemen melden"
 
 #: ../qml/pages/CategoryPage.qml:87
 msgid "Topics"
@@ -81,7 +82,7 @@ msgstr "Onderwerpen"
 
 #: ../qml/pages/MainPage.qml:64
 msgid "Home"
-msgstr "Home"
+msgstr "Startpagina"
 
 #: ../qml/pages/MainPage.qml:64 ../qml/pages/SettingsPage.qml:189
 msgid "Recent topics"
@@ -93,7 +94,7 @@ msgstr "Instellingen"
 
 #: ../qml/pages/MainPage.qml:90 ../qml/pages/NotificationsPage.qml:35
 msgid "Notifications"
-msgstr "Notificaties"
+msgstr "Meldingen"
 
 #: ../qml/pages/MainPage.qml:95 ../qml/pages/SearchPage.qml:44
 msgid "Search"
@@ -125,11 +126,11 @@ msgstr "Thema"
 
 #: ../qml/pages/SettingsPage.qml:138
 msgid "System"
-msgstr "Systeem"
+msgstr "Systeemthema"
 
 #: ../qml/pages/SettingsPage.qml:166
 msgid "Default tab on startup"
-msgstr "Standaardtabblad bij opstarten"
+msgstr "Te openen tabblad na opstarten"
 
 #: ../qml/pages/SettingsPage.qml:235
 msgid "About page"
@@ -149,7 +150,7 @@ msgstr "Terug"
 
 #: ../qml/pages/WebEngineViewPage.qml:63 ../qml/pages/WebEngineViewPage.qml:341
 msgid "Login"
-msgstr "Login"
+msgstr "Inloggen"
 
 #: ../qml/pages/WebEngineViewPage.qml:337
 msgid "Are you logged in?"
@@ -161,7 +162,7 @@ msgid ""
 "You can do this through the app settings or by using the login button below."
 msgstr ""
 "Om op dit onderwerp te reageren, moet je ingelogd zijn op je account. Dit "
-"kun je doen via de app-instellingen of via onderstaande inlogknop."
+"kun je doen via de appinstellingen of onderstaande inlogknop."
 
 #: ../qml/pages/WebEngineViewPage.qml:355
 msgid "Cancel"
