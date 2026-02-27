@@ -3,20 +3,21 @@
 # This file is distributed under the same license as the intouch.sanderklootwijk package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-04 20:00+0000\n"
-"PO-Revision-Date: 2026-02-01 19:04+0100\n"
+"PO-Revision-Date: 2026-02-28 15:33+0000\n"
 "Last-Translator: Daniel Frost <one@frostinfo.de>\n"
-"Language-Team: \n"
+"Language-Team: German <https://hosted.weblate.org/projects/ubports/intouch/"
+"de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: ../qml/Main.qml:200
 msgid "%1 seconds ago"
@@ -141,7 +142,7 @@ msgstr "Gesperrt"
 
 #: ../qml/pages/TopicPage.qml:421
 msgid "Post %1 from %2"
-msgstr ""
+msgstr "Beitrag %1 von %2"
 
 #: ../qml/pages/WebEngineViewPage.qml:41
 msgid "Close"
