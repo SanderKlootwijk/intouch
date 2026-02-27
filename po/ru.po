@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-01 14:56+0000\n"
+"POT-Creation-Date: 2026-02-04 20:00+0000\n"
 "PO-Revision-Date: 2026-02-01 15:57+0100\n"
 "Last-Translator: JasonWalt Bab@\n"
 "Language-Team: Russian\n"
@@ -137,6 +137,10 @@ msgstr "Страница \"Об этом\""
 #: ../qml/pages/TopicPage.qml:274
 msgid "Locked"
 msgstr "Заблокировано"
+
+#: ../qml/pages/TopicPage.qml:421
+msgid "Post %1 from %2"
+msgstr ""
 
 #: ../qml/pages/WebEngineViewPage.qml:41
 msgid "Close"

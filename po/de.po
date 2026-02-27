@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-01 14:56+0000\n"
+"POT-Creation-Date: 2026-02-04 20:00+0000\n"
 "PO-Revision-Date: 2026-02-01 19:04+0100\n"
 "Last-Translator: Daniel Frost <one@frostinfo.de>\n"
 "Language-Team: \n"
@@ -138,6 +138,10 @@ msgstr "Über die App"
 #: ../qml/pages/TopicPage.qml:274
 msgid "Locked"
 msgstr "Gesperrt"
+
+#: ../qml/pages/TopicPage.qml:421
+msgid "Post %1 from %2"
+msgstr ""
 
 #: ../qml/pages/WebEngineViewPage.qml:41
 msgid "Close"
