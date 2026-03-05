@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-04 20:00+0000\n"
-"PO-Revision-Date: 2026-03-03 11:09+0000\n"
+"PO-Revision-Date: 2026-03-06 16:09+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "ubports/intouch/en_GB/>\n"
@@ -58,7 +58,7 @@ msgstr ""
 
 #: ../qml/pages/AboutPage.qml:27 ../qml/pages/SettingsPage.qml:217
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: ../qml/pages/AboutPage.qml:80 intouch.desktop.in.h:1
 msgid "InTouch"
@@ -90,7 +90,7 @@ msgstr ""
 
 #: ../qml/pages/MainPage.qml:72 ../qml/pages/SettingsPage.qml:27
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: ../qml/pages/MainPage.qml:90 ../qml/pages/NotificationsPage.qml:35
 msgid "Notifications"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: ../qml/pages/WebEngineViewPage.qml:41
 msgid "Close"
-msgstr ""
+msgstr "Close"
 
 #: ../qml/pages/WebEngineViewPage.qml:51
 msgid "Back"
