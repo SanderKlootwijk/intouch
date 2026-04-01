@@ -33,7 +33,7 @@ MainView {
     height: units.gu(75)
 
     // Version
-    property string version: "1.3.1"
+    property string version: "1.3.2"
 
     // App status and login information
     property bool loggedIn: false
