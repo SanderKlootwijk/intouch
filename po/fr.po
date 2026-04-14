@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the intouch.sanderklootwijk package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: intouch.sanderklootwijk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-04 20:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+#: ../qml/Main.qml:200
+msgid "%1 seconds ago"
+msgstr ""
+
+#: ../qml/Main.qml:203
+msgid "one minute ago"
+msgstr ""
+
+#: ../qml/Main.qml:206
+msgid "%1 minutes ago"
+msgstr ""
+
+#: ../qml/Main.qml:209
+msgid "about one hour ago"
+msgstr ""
+
+#: ../qml/Main.qml:212
+msgid "about %1 hours ago"
+msgstr ""
+
+#: ../qml/Main.qml:215
+msgid "one day ago"
+msgstr ""
+
+#: ../qml/Main.qml:218
+msgid "%1 days ago"
+msgstr ""
+
+#: ../qml/components/PostListItem.qml:135 ../qml/pages/TopicPage.qml:274
+#: ../qml/pages/WebEngineViewPage.qml:70
+msgid "Reply"
+msgstr ""
+
+#: ../qml/components/PostListItem.qml:164
+msgid "Quote"
+msgstr ""
+
+#: ../qml/pages/AboutPage.qml:27 ../qml/pages/SettingsPage.qml:217
+msgid "About"
+msgstr ""
+
+#: ../qml/pages/AboutPage.qml:80 intouch.desktop.in.h:1
+msgid "InTouch"
+msgstr ""
+
+#: ../qml/pages/AboutPage.qml:85
+msgid "Version"
+msgstr ""
+
+#: ../qml/pages/AboutPage.qml:102
+msgid "Source code"
+msgstr ""
+
+#: ../qml/pages/AboutPage.qml:103
+msgid "Report issues"
+msgstr ""
+
+#: ../qml/pages/CategoryPage.qml:87
+msgid "Topics"
+msgstr ""
+
+#: ../qml/pages/MainPage.qml:64
+msgid "Home"
+msgstr ""
+
+#: ../qml/pages/MainPage.qml:64 ../qml/pages/SettingsPage.qml:189
+msgid "Recent topics"
+msgstr ""
+
+#: ../qml/pages/MainPage.qml:72 ../qml/pages/SettingsPage.qml:27
+msgid "Settings"
+msgstr ""
+
+#: ../qml/pages/MainPage.qml:90 ../qml/pages/NotificationsPage.qml:35
+msgid "Notifications"
+msgstr ""
+
+#: ../qml/pages/MainPage.qml:95 ../qml/pages/SearchPage.qml:44
+msgid "Search"
+msgstr ""
+
+#: ../qml/pages/MainPage.qml:106 ../qml/pages/SettingsPage.qml:189
+msgid "Categories"
+msgstr ""
+
+#: ../qml/pages/MainPage.qml:109
+msgid "Recent"
+msgstr ""
+
+#: ../qml/pages/SearchPage.qml:106
+msgid "No results"
+msgstr ""
+
+#: ../qml/pages/SettingsPage.qml:66 ../qml/pages/WebEngineViewPage.qml:66
+msgid "Account"
+msgstr ""
+
+#: ../qml/pages/SettingsPage.qml:84
+msgid "Login or manage your account"
+msgstr ""
+
+#: ../qml/pages/SettingsPage.qml:115
+msgid "Theme"
+msgstr ""
+
+#: ../qml/pages/SettingsPage.qml:138
+msgid "System"
+msgstr ""
+
+#: ../qml/pages/SettingsPage.qml:166
+msgid "Default tab on startup"
+msgstr ""
+
+#: ../qml/pages/SettingsPage.qml:235
+msgid "About page"
+msgstr ""
+
+#: ../qml/pages/TopicPage.qml:274
+msgid "Locked"
+msgstr ""
+
+#: ../qml/pages/TopicPage.qml:421
+msgid "Post %1 from %2"
+msgstr ""
+
+#: ../qml/pages/WebEngineViewPage.qml:41
+msgid "Close"
+msgstr ""
+
+#: ../qml/pages/WebEngineViewPage.qml:51
+msgid "Back"
+msgstr ""
+
+#: ../qml/pages/WebEngineViewPage.qml:63 ../qml/pages/WebEngineViewPage.qml:341
+msgid "Login"
+msgstr ""
+
+#: ../qml/pages/WebEngineViewPage.qml:337
+msgid "Are you logged in?"
+msgstr ""
+
+#: ../qml/pages/WebEngineViewPage.qml:338
+msgid ""
+"To reply to this topic, please make sure you are logged in to your account. "
+"You can do this through the app settings or by using the login button below."
+msgstr ""
+
+#: ../qml/pages/WebEngineViewPage.qml:355
+msgid "Cancel"
+msgstr ""
