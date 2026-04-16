@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-04 20:00+0000\n"
-"PO-Revision-Date: 2026-03-20 14:09+0000\n"
+"PO-Revision-Date: 2026-04-17 04:38+0000\n"
 "Last-Translator: Serhii Horichenko <serhii@horichenko.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/ubports/"
 "intouch/uk/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #: ../qml/Main.qml:200
 msgid "%1 seconds ago"
@@ -83,7 +83,7 @@ msgstr "Теми"
 
 #: ../qml/pages/MainPage.qml:64
 msgid "Home"
-msgstr "Домашня"
+msgstr "Домівка"
 
 #: ../qml/pages/MainPage.qml:64 ../qml/pages/SettingsPage.qml:189
 msgid "Recent topics"
@@ -155,7 +155,7 @@ msgstr "Назад"
 
 #: ../qml/pages/WebEngineViewPage.qml:63 ../qml/pages/WebEngineViewPage.qml:341
 msgid "Login"
-msgstr "Увійти"
+msgstr "Вхід"
 
 #: ../qml/pages/WebEngineViewPage.qml:337
 msgid "Are you logged in?"
