@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-04 20:00+0000\n"
-"PO-Revision-Date: 2026-02-27 16:48+0000\n"
-"Last-Translator: Sander Klootwijk <sander.k1007@kpnmail.nl>\n"
+"PO-Revision-Date: 2026-06-26 19:59+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/ubports/intouch/"
 "nl/>\n"
 "Language: nl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 
 #: ../qml/Main.qml:200
 msgid "%1 seconds ago"
@@ -50,7 +50,7 @@ msgstr "%1 dagen geleden"
 #: ../qml/components/PostListItem.qml:135 ../qml/pages/TopicPage.qml:274
 #: ../qml/pages/WebEngineViewPage.qml:70
 msgid "Reply"
-msgstr "Reageren"
+msgstr "Beantwoorden"
 
 #: ../qml/components/PostListItem.qml:164
 msgid "Quote"
