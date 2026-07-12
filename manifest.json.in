@@ -9,7 +9,7 @@
             "desktop":  "intouch.desktop"
         }
     },
-    "version": "1.3.2",
+    "version": "1.3.3",
     "maintainer": "Sander Klootwijk <sander.klootwijk@tutanota.com>",
     "framework" : "@CLICK_FRAMEWORK@"
 }
