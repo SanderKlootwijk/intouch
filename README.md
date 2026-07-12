@@ -2,6 +2,10 @@
 
 Native browser for the UBports Forum
 
+## Translations
+
+Help translate the app: <https://hosted.weblate.org/projects/ubports/intouch>. Translations kindly made possible by Weblate.
+
 ## License
 
 Copyright (C) 2025  Sander Klootwijk
