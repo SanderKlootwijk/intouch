@@ -128,7 +128,7 @@ Page {
 
                     for (let i = 0; i < topics.length; i++) {
                         topicsListModel.append({
-                            "title": topics[i].titleRaw,
+                            "title": topics[i].title,
                             "postcount": topics[i].postcount,
                             "lastposttimeISO": topics[i].lastposttimeISO,
                             "pinned": topics[i].pinned,

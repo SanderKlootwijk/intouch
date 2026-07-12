@@ -165,7 +165,7 @@ Page {
 
                     for (let i = 0; i < posts.length; i++) {
                         searchResultsListModel.append({
-                            "title": posts[i].topic.titleRaw,
+                            "title": posts[i].topic.title,
                             "pinned": 0,
                             "postcount": posts[i].topic.postcount,
                             "deleted": 0,

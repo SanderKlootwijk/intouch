@@ -461,7 +461,7 @@ Page {
                     let data = JSON.parse(xhr.responseText);
                     let posts = data.posts;
 
-                    topicPageHeaderTitle.text = data.titleRaw;
+                    topicPageHeaderTitle.text = data.title;
                     currentPage = page;
 
                     pinned = data.pinned;
