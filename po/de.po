@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-04 20:00+0000\n"
-"PO-Revision-Date: 2026-04-24 09:09+0000\n"
-"Last-Translator: Peter Broczinski <peter.broczinski@gmail.com>\n"
+"PO-Revision-Date: 2026-07-21 19:01+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/ubports/intouch/"
 "de/>\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 #: ../qml/Main.qml:200
 msgid "%1 seconds ago"
@@ -74,7 +74,7 @@ msgstr "Quellcode"
 
 #: ../qml/pages/AboutPage.qml:103
 msgid "Report issues"
-msgstr "Fehler melden"
+msgstr "Probleme melden"
 
 #: ../qml/pages/CategoryPage.qml:87
 msgid "Topics"
@@ -154,7 +154,7 @@ msgstr "Zurück"
 
 #: ../qml/pages/WebEngineViewPage.qml:63 ../qml/pages/WebEngineViewPage.qml:341
 msgid "Login"
-msgstr "Anmeldung"
+msgstr "Anmelden"
 
 #: ../qml/pages/WebEngineViewPage.qml:337
 msgid "Are you logged in?"
