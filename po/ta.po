@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-04 20:00+0000\n"
-"PO-Revision-Date: 2026-08-28 18:44+0000\n"
+"PO-Revision-Date: 2026-08-30 19:30+0000\n"
 "Last-Translator: Alagirisamy Rengaraj <radhaalagirisamy@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/ubports/intouch/"
 "ta/>\n"
@@ -102,7 +102,7 @@ msgstr ""
 
 #: ../qml/pages/MainPage.qml:106 ../qml/pages/SettingsPage.qml:189
 msgid "Categories"
-msgstr ""
+msgstr "வகைப்பாடுகள்"
 
 #: ../qml/pages/MainPage.qml:109
 msgid "Recent"
