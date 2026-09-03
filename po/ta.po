@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-04 20:00+0000\n"
-"PO-Revision-Date: 2026-08-31 09:52+0000\n"
+"PO-Revision-Date: 2026-09-04 05:51+0000\n"
 "Last-Translator: Alagirisamy Rengaraj <radhaalagirisamy@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/ubports/intouch/"
 "ta/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.9.dev0\n"
+"X-Generator: Weblate 2026.9\n"
 
 #: ../qml/Main.qml:200
 msgid "%1 seconds ago"
@@ -98,7 +98,7 @@ msgstr ""
 
 #: ../qml/pages/MainPage.qml:95 ../qml/pages/SearchPage.qml:44
 msgid "Search"
-msgstr ""
+msgstr "தேடுதல்"
 
 #: ../qml/pages/MainPage.qml:106 ../qml/pages/SettingsPage.qml:189
 msgid "Categories"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../qml/pages/SettingsPage.qml:66 ../qml/pages/WebEngineViewPage.qml:66
 msgid "Account"
-msgstr ""
+msgstr "கணக்கு"
 
 #: ../qml/pages/SettingsPage.qml:84
 msgid "Login or manage your account"
@@ -122,11 +122,11 @@ msgstr ""
 
 #: ../qml/pages/SettingsPage.qml:115
 msgid "Theme"
-msgstr ""
+msgstr "கருப்பொருள்"
 
 #: ../qml/pages/SettingsPage.qml:138
 msgid "System"
-msgstr ""
+msgstr "கணினி"
 
 #: ../qml/pages/SettingsPage.qml:166
 msgid "Default tab on startup"
@@ -146,11 +146,11 @@ msgstr ""
 
 #: ../qml/pages/WebEngineViewPage.qml:41
 msgid "Close"
-msgstr ""
+msgstr "மூடு"
 
 #: ../qml/pages/WebEngineViewPage.qml:51
 msgid "Back"
-msgstr ""
+msgstr "பின்"
 
 #: ../qml/pages/WebEngineViewPage.qml:63 ../qml/pages/WebEngineViewPage.qml:341
 msgid "Login"
