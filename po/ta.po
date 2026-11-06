@@ -8,8 +8,9 @@ msgstr ""
 "Project-Id-Version: intouch.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-04 20:00+0000\n"
-"PO-Revision-Date: 2026-09-28 13:51+0000\n"
-"Last-Translator: Alagirisamy Rengaraj <radhaalagirisamy@gmail.com>\n"
+"PO-Revision-Date: 2026-11-07 08:51+0000\n"
+"Last-Translator: Alagirisamy Rengaraj "
+"<ahalyachinnasamy1967@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/ubports/intouch/"
 "ta/>\n"
 "Language: ta\n"
@@ -17,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.10.dev0\n"
+"X-Generator: Weblate 2026.11.2.dev0\n"
 
 #: ../qml/Main.qml:200
 msgid "%1 seconds ago"
@@ -58,7 +59,7 @@ msgstr "மேற்கோள்"
 
 #: ../qml/pages/AboutPage.qml:27 ../qml/pages/SettingsPage.qml:217
 msgid "About"
-msgstr "பற்றி"
+msgstr "இதுகுறித்து"
 
 #: ../qml/pages/AboutPage.qml:80 intouch.desktop.in.h:1
 msgid "InTouch"
@@ -150,7 +151,7 @@ msgstr "மூடு"
 
 #: ../qml/pages/WebEngineViewPage.qml:51
 msgid "Back"
-msgstr "பின்"
+msgstr "பின் செல்லவும்"
 
 #: ../qml/pages/WebEngineViewPage.qml:63 ../qml/pages/WebEngineViewPage.qml:341
 msgid "Login"
